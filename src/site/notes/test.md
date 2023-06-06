@@ -4,3 +4,5 @@
 
 
 hello world
+
+[[another page\|another page]]
