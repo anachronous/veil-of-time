@@ -3,6 +3,6 @@
 ---
 
 
-![[Pasted image 20230607113419.png \| 400]]
+![Pasted image 20230607113419.png|400](/img/user/Images/Pasted%20image%2020230607113419.png)
 
 
