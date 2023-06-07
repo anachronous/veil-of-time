@@ -48,7 +48,7 @@ Caveat is that this will completely flood your account with commits which you'll
 
 This one is similar to the Dataview plugin mentioned above but instead for tasks (well obviously). It lets you query tasks in a similar way from all over your vault and is really helpful if you're a messy person like me. The plugin also lets you set due times, repeating tasks and more.
 
-A query for this will look a bit like this:
+A query for that will look a bit like this:
 ```
 not done
 due today
