@@ -24,9 +24,9 @@ This track is again picking up the heavyness of the first part of Écailles de l
 Ok interlude that fits the nocturnal and aquatic vibe they wanted well but nothing special and skippable.
 
 ## Solar Song
-On Solar Song, we're getting into clean vocals again with a more dreamy mood than the previous tracks. While i do
+On Solar Song, we're getting into clean vocals again with a more dreamy mood than the previous tracks. While i do still enjoy it, its my least favorite "real" song on this album. Just doesn't really hit as hard as the others for me.
 
 ## Sur l'océan couleur de fer
-
+This was actually the first song i heard from Écailles de lune and it hit me hard from the beginning. Very different from the other songs as it is a very calm and moody guitar piece, this goes very hard when lying in bed in complete darkness. In terms of atmosphere very likely to be Alcests best song and Neige nails it on vocals. Just wish there were more songs like this.
 
 #music #review
