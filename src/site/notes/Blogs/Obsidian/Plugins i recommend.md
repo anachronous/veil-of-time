@@ -57,3 +57,4 @@ group by priority
 
 Again, you'll have to put this into a codeblock and put tasks at the top instead of a programming language. Also obviously again, you can go much deeper than this.
 
+#obsidian 
