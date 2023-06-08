@@ -29,4 +29,7 @@ On Solar Song, we're getting into clean vocals again with a more dreamy mood tha
 ## Sur l'océan couleur de fer
 This was actually the first song i heard from Écailles de lune and it hit me hard from the beginning. Very different from the other songs as it is a very calm and moody guitar piece, this goes very hard when lying in bed in complete darkness. In terms of atmosphere very likely to be Alcests best song and Neige nails it on vocals. Just wish there were more songs like this.
 
+# Rating:
+**4.5/5** - really good album, even if it has some flaws in the middle section.
+
 #music #review
