@@ -10,7 +10,7 @@ Allows you to use your Vault similarly to a Database. If you use the minimal the
 
 | Title                                                                     | Genre     | Rating | Description                                                                                             | Link                                              |
 | ------------------------------------------------------------------------- | --------- | ------ | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [[Reviews/Music/Alcest - Écailles de lune\|Alcest - Écailles de lune]] | Blackgaze | 4.5/5  | Very atmospheric and aquatic themed album that manages to be both heavy and beautiful at the same time. | https://alcest.bandcamp.com/album/cailles-de-lune |
+| [[Reviews/Music/Alcest - Écailles de lune\|Alcest - Écailles de lune]] | Blackgaze | 4/5    | Very atmospheric and aquatic themed album that manages to be both heavy and beautiful at the same time. | https://alcest.bandcamp.com/album/cailles-de-lune |
 
 { .block-language-dataview}
 On the page [[Reviews/Music/Alcest - Écailles de lune\|Alcest - Écailles de lune]], i put this metadata at the top of the note (ignore dg-publish):
